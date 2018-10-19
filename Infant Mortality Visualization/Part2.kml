@@ -1,0 +1,1845 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Name>Country Facts</Name>
+    <Description>Infant Motality</Description>
+    <Lookat>
+      <longitude>-121</longitude>
+      <latitude>43</latitude>
+      <altitude>4100000</altitude>
+      <title>0</title>
+      <heading>0</heading>
+      <altitudeMode>absolute</altitudeMode>
+    </Lookat>
+    <Folder>
+      <Name>CIA Fact Book</Name>
+    </Folder>
+    <Placemark id="AA">
+      <name>ARUBA</name>
+      <description>ARUBA
+ Population: 110663
+ Infant Mortality: 11.74</description>
+      <Point>
+        <coordinates>-69.9667,12.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AC">
+      <name>ANTIGUA AND BARBUDA</name>
+      <description>ANTIGUA AND BARBUDA
+ Population: 91295
+ Infant Mortality: 13.29</description>
+      <Point>
+        <coordinates>-61.8,17.05,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AE">
+      <name>UNITED ARAB EMIRATES</name>
+      <description>UNITED ARAB EMIRATES
+ Population: 5628805
+ Infant Mortality: 10.92</description>
+      <Point>
+        <coordinates>54,24,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AF">
+      <name>AFGHANISTAN</name>
+      <description>AFGHANISTAN
+ Population: 31822848
+ Infant Mortality: 117.23</description>
+      <Point>
+        <coordinates>65,33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AG">
+      <name>ALGERIA</name>
+      <description>ALGERIA
+ Population: 38813722
+ Infant Mortality: 21.76</description>
+      <Point>
+        <coordinates>3,28,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AJ">
+      <name>AZERBAIJAN</name>
+      <description>AZERBAIJAN
+ Population: 9686210
+ Infant Mortality: 26.67</description>
+      <Point>
+        <coordinates>47.5,40.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AL">
+      <name>ALBANIA</name>
+      <description>ALBANIA
+ Population: 3020209
+ Infant Mortality: 13.19</description>
+      <Point>
+        <coordinates>20,41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AM">
+      <name>ARMENIA</name>
+      <description>ARMENIA
+ Population: 3060631
+ Infant Mortality: 13.97</description>
+      <Point>
+        <coordinates>45,40,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AN">
+      <name>ANDORRA</name>
+      <description>ANDORRA
+ Population: 85458
+ Infant Mortality: 3.69</description>
+      <Point>
+        <coordinates>1.5,42.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AO">
+      <name>ANGOLA</name>
+      <description>ANGOLA
+ Population: 19088106
+ Infant Mortality: 79.99</description>
+      <Point>
+        <coordinates>18.5,-12.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AQ">
+      <name>AMERICAN SAMOA</name>
+      <description>AMERICAN SAMOA
+ Population: 54517
+ Infant Mortality: 8.92</description>
+      <Point>
+        <coordinates>-170,-14.3333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AR">
+      <name>ARGENTINA</name>
+      <description>ARGENTINA
+ Population: 43024374
+ Infant Mortality: 9.96</description>
+      <Point>
+        <coordinates>-64,-34,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AS">
+      <name>AUSTRALIA</name>
+      <description>AUSTRALIA
+ Population: 22507617
+ Infant Mortality: 4.43</description>
+      <Point>
+        <coordinates>133,-27,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AU">
+      <name>AUSTRIA</name>
+      <description>AUSTRIA
+ Population: 8223062
+ Infant Mortality: 4.16</description>
+      <Point>
+        <coordinates>13.3333,47.3333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="AV">
+      <name>ANGUILLA</name>
+      <description>ANGUILLA
+ Population: 16086
+ Infant Mortality: 3.40</description>
+      <Point>
+        <coordinates>-63.1667,18.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BA">
+      <name>BAHRAIN</name>
+      <description>BAHRAIN
+ Population: 1314089
+ Infant Mortality: 9.68</description>
+      <Point>
+        <coordinates>50.55,26,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BB">
+      <name>BARBADOS</name>
+      <description>BARBADOS
+ Population: 289680
+ Infant Mortality: 10.93</description>
+      <Point>
+        <coordinates>-59.5333,13.1667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BC">
+      <name>BOTSWANA</name>
+      <description>BOTSWANA
+ Population: 2155784
+ Infant Mortality: 9.38</description>
+      <Point>
+        <coordinates>24,-22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BD">
+      <name>BERMUDA</name>
+      <description>BERMUDA
+ Population: 69839
+ Infant Mortality: 2.48</description>
+      <Point>
+        <coordinates>-64.75,32.3333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BE">
+      <name>BELGIUM</name>
+      <description>BELGIUM
+ Population: 10449361
+ Infant Mortality: 4.18</description>
+      <Point>
+        <coordinates>4,50.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BG">
+      <name>BANGLADESH</name>
+      <description>BANGLADESH
+ Population: 166280712
+ Infant Mortality: 45.67</description>
+      <Point>
+        <coordinates>90,24,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BH">
+      <name>BELIZE</name>
+      <description>BELIZE
+ Population: 340844
+ Infant Mortality: 20.31</description>
+      <Point>
+        <coordinates>-88.75,17.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BK">
+      <name>BOSNIA AND HERZEGOVINA</name>
+      <description>BOSNIA AND HERZEGOVINA
+ Population: 3871643
+ Infant Mortality: 5.84</description>
+      <Point>
+        <coordinates>18,44,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BL">
+      <name>BOLIVIA</name>
+      <description>BOLIVIA
+ Population: 10631486
+ Infant Mortality: 38.61</description>
+      <Point>
+        <coordinates>-65,-17,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BN">
+      <name>BENIN</name>
+      <description>BENIN
+ Population: 10160556
+ Infant Mortality: 57.09</description>
+      <Point>
+        <coordinates>2.25,9.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BO">
+      <name>BELARUS</name>
+      <description>BELARUS
+ Population: 9608058
+ Infant Mortality: 3.64</description>
+      <Point>
+        <coordinates>28,53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BP">
+      <name>SOLOMON ISLANDS</name>
+      <description>SOLOMON ISLANDS
+ Population: 609883
+ Infant Mortality: 16.17</description>
+      <Point>
+        <coordinates>159,-8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BR">
+      <name>BRAZIL</name>
+      <description>BRAZIL
+ Population: 202656788
+ Infant Mortality: 19.21</description>
+      <Point>
+        <coordinates>-55,-10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BT">
+      <name>BHUTAN</name>
+      <description>BHUTAN
+ Population: 733643
+ Infant Mortality: 37.89</description>
+      <Point>
+        <coordinates>90.5,27.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BU">
+      <name>BULGARIA</name>
+      <description>BULGARIA
+ Population: 6924716
+ Infant Mortality: 15.08</description>
+      <Point>
+        <coordinates>25,43,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BX">
+      <name>BRUNEI</name>
+      <description>BRUNEI
+ Population: 422675
+ Infant Mortality: 10.48</description>
+      <Point>
+        <coordinates>114.6667,4.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="BY">
+      <name>BURUNDI</name>
+      <description>BURUNDI
+ Population: 10395931
+ Infant Mortality: 63.44</description>
+      <Point>
+        <coordinates>30,-3.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CA">
+      <name>CANADA</name>
+      <description>CANADA
+ Population: 34834841
+ Infant Mortality: 4.71</description>
+      <Point>
+        <coordinates>-95,60,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CB">
+      <name>CAMBODIA</name>
+      <description>CAMBODIA
+ Population: 15458332
+ Infant Mortality: 51.36</description>
+      <Point>
+        <coordinates>105,13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CD">
+      <name>CHAD</name>
+      <description>CHAD
+ Population: 11412107
+ Infant Mortality: 90.30</description>
+      <Point>
+        <coordinates>19,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CE">
+      <name>SRI LANKA</name>
+      <description>SRI LANKA
+ Population: 21866445
+ Infant Mortality: 9.02</description>
+      <Point>
+        <coordinates>81,7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CH">
+      <name>CHINA</name>
+      <description>CHINA
+ Population: 1355692576
+ Infant Mortality: 14.79</description>
+      <Point>
+        <coordinates>105,35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CI">
+      <name>CHILE</name>
+      <description>CHILE
+ Population: 17363894
+ Infant Mortality: 7.02</description>
+      <Point>
+        <coordinates>-71,-30,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CJ">
+      <name>CAYMAN ISLANDS</name>
+      <description>CAYMAN ISLANDS
+ Population: 54914
+ Infant Mortality: 6.21</description>
+      <Point>
+        <coordinates>-80.5,19.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CM">
+      <name>CAMEROON</name>
+      <description>CAMEROON
+ Population: 23130708
+ Infant Mortality: 55.10</description>
+      <Point>
+        <coordinates>12,6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CN">
+      <name>COMOROS</name>
+      <description>COMOROS
+ Population: 766865
+ Infant Mortality: 65.31</description>
+      <Point>
+        <coordinates>44.25,-12.1667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CO">
+      <name>COLOMBIA</name>
+      <description>COLOMBIA
+ Population: 46245297
+ Infant Mortality: 15.02</description>
+      <Point>
+        <coordinates>-72,4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CQ">
+      <name>NORTHERN MARIANA ISLANDS</name>
+      <description>NORTHERN MARIANA ISLANDS
+ Population: 51483
+ Infant Mortality: 5.50</description>
+      <Point>
+        <coordinates>145.75,15.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CS">
+      <name>COSTA RICA</name>
+      <description>COSTA RICA
+ Population: 4755234
+ Infant Mortality: 8.70</description>
+      <Point>
+        <coordinates>-84,10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CT">
+      <name>CENTRAL AFRICAN REPUBLIC</name>
+      <description>CENTRAL AFRICAN REPUBLIC
+ Population: 5277959
+ Infant Mortality: 92.86</description>
+      <Point>
+        <coordinates>21,7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CU">
+      <name>CUBA</name>
+      <description>CUBA
+ Population: 11047251
+ Infant Mortality: 4.70</description>
+      <Point>
+        <coordinates>-80,21.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CV">
+      <name>CAPE VERDE</name>
+      <description>CAPE VERDE
+ Population: 538535
+ Infant Mortality: 24.28</description>
+      <Point>
+        <coordinates>-24,16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CW">
+      <name>COOK ISLANDS</name>
+      <description>COOK ISLANDS
+ Population: 10134
+ Infant Mortality: 14.33</description>
+      <Point>
+        <coordinates>-159.7667,-21.2333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="CY">
+      <name>CYPRUS</name>
+      <description>CYPRUS
+ Population: 1172458
+ Infant Mortality: 8.54</description>
+      <Point>
+        <coordinates>33,35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="DA">
+      <name>DENMARK</name>
+      <description>DENMARK
+ Population: 5569077
+ Infant Mortality: 4.10</description>
+      <Point>
+        <coordinates>10,56,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="DJ">
+      <name>DJIBOUTI</name>
+      <description>DJIBOUTI
+ Population: 810179
+ Infant Mortality: 50.20</description>
+      <Point>
+        <coordinates>43,11.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="DO">
+      <name>DOMINICA</name>
+      <description>DOMINICA
+ Population: 73449
+ Infant Mortality: 11.61</description>
+      <Point>
+        <coordinates>-61.3333,15.4167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="DR">
+      <name>DOMINICAN REPUBLIC</name>
+      <description>DOMINICAN REPUBLIC
+ Population: 10349741
+ Infant Mortality: 19.63</description>
+      <Point>
+        <coordinates>-70.6667,19,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="EC">
+      <name>ECUADOR</name>
+      <description>ECUADOR
+ Population: 15654411
+ Infant Mortality: 17.93</description>
+      <Point>
+        <coordinates>-77.5,-2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="EG">
+      <name>EGYPT</name>
+      <description>EGYPT
+ Population: 86895099
+ Infant Mortality: 22.41</description>
+      <Point>
+        <coordinates>30,27,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="EI">
+      <name>IRELAND</name>
+      <description>IRELAND
+ Population: 4832765
+ Infant Mortality: 3.74</description>
+      <Point>
+        <coordinates>-8,53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="EK">
+      <name>EQUATORIAL GUINEA</name>
+      <description>EQUATORIAL GUINEA
+ Population: 722254
+ Infant Mortality: 71.12</description>
+      <Point>
+        <coordinates>10,2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="EN">
+      <name>ESTONIA</name>
+      <description>ESTONIA
+ Population: 1257921
+ Infant Mortality: 6.70</description>
+      <Point>
+        <coordinates>26,59,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ER">
+      <name>ERITREA</name>
+      <description>ERITREA
+ Population: 6380803
+ Infant Mortality: 38.44</description>
+      <Point>
+        <coordinates>39,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ES">
+      <name>EL SALVADOR</name>
+      <description>EL SALVADOR
+ Population: 6125512
+ Infant Mortality: 18.44</description>
+      <Point>
+        <coordinates>-88.9167,13.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ET">
+      <name>ETHIOPIA</name>
+      <description>ETHIOPIA
+ Population: 96633458
+ Infant Mortality: 55.77</description>
+      <Point>
+        <coordinates>38,8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="EZ">
+      <name>CZECH REPUBLIC</name>
+      <description>CZECH REPUBLIC
+ Population: 10627448
+ Infant Mortality: 2.63</description>
+      <Point>
+        <coordinates>15.5,49.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="FI">
+      <name>FINLAND</name>
+      <description>FINLAND
+ Population: 5268799
+ Infant Mortality: 3.36</description>
+      <Point>
+        <coordinates>26,64,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="FJ">
+      <name>FIJI</name>
+      <description>FIJI
+ Population: 903207
+ Infant Mortality: 10.20</description>
+      <Point>
+        <coordinates>175,-18,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="FO">
+      <name>FAROE ISLANDS</name>
+      <description>FAROE ISLANDS
+ Population: 49947
+ Infant Mortality: 5.71</description>
+      <Point>
+        <coordinates>-7,62,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="FP">
+      <name>FRENCH POLYNESIA</name>
+      <description>FRENCH POLYNESIA
+ Population: 280026
+ Infant Mortality: 4.78</description>
+      <Point>
+        <coordinates>-140,-15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="FR">
+      <name>FRANCE</name>
+      <description>FRANCE
+ Population: 66259012
+ Infant Mortality: 3.31</description>
+      <Point>
+        <coordinates>2,46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GB">
+      <name>GABON</name>
+      <description>GABON
+ Population: 1672597
+ Infant Mortality: 47.03</description>
+      <Point>
+        <coordinates>11.75,-1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GG">
+      <name>GEORGIA</name>
+      <description>GEORGIA
+ Population: 4935880
+ Infant Mortality: 16.68</description>
+      <Point>
+        <coordinates>43.5,42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GH">
+      <name>GHANA</name>
+      <description>GHANA
+ Population: 25758108
+ Infant Mortality: 38.52</description>
+      <Point>
+        <coordinates>-2,8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GI">
+      <name>GIBRALTAR</name>
+      <description>GIBRALTAR
+ Population: 29185
+ Infant Mortality: 6.29</description>
+      <Point>
+        <coordinates>-5.3667,36.1833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GJ">
+      <name>GRENADA</name>
+      <description>GRENADA
+ Population: 110152
+ Infant Mortality: 10.50</description>
+      <Point>
+        <coordinates>-61.6667,12.1167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GL">
+      <name>GREENLAND</name>
+      <description>GREENLAND
+ Population: 57728
+ Infant Mortality: 9.42</description>
+      <Point>
+        <coordinates>-40,72,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GM">
+      <name>GERMANY</name>
+      <description>GERMANY
+ Population: 80996685
+ Infant Mortality: 3.46</description>
+      <Point>
+        <coordinates>9,51,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GQ">
+      <name>GUAM</name>
+      <description>GUAM
+ Population: 161001
+ Infant Mortality: 5.51</description>
+      <Point>
+        <coordinates>144.7833,13.4667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GR">
+      <name>GREECE</name>
+      <description>GREECE
+ Population: 10775557
+ Infant Mortality: 4.78</description>
+      <Point>
+        <coordinates>22,39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GT">
+      <name>GUATEMALA</name>
+      <description>GUATEMALA
+ Population: 14647083
+ Infant Mortality: 23.51</description>
+      <Point>
+        <coordinates>-90.25,15.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GV">
+      <name>GUINEA</name>
+      <description>GUINEA
+ Population: 11474383
+ Infant Mortality: 55.24</description>
+      <Point>
+        <coordinates>-10,11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="GY">
+      <name>GUYANA</name>
+      <description>GUYANA
+ Population: 735554
+ Infant Mortality: 33.56</description>
+      <Point>
+        <coordinates>-59,5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="HA">
+      <name>HAITI</name>
+      <description>HAITI
+ Population: 9996731
+ Infant Mortality: 49.43</description>
+      <Point>
+        <coordinates>-72.4167,19,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="HK">
+      <name>HONG KONG</name>
+      <description>HONG KONG
+ Population: 7112688
+ Infant Mortality: 2.73</description>
+      <Point>
+        <coordinates>114.1667,22.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="HO">
+      <name>HONDURAS</name>
+      <description>HONDURAS
+ Population: 8598561
+ Infant Mortality: 18.72</description>
+      <Point>
+        <coordinates>-86.5,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="HR">
+      <name>CROATIA</name>
+      <description>CROATIA
+ Population: 4470534
+ Infant Mortality: 5.87</description>
+      <Point>
+        <coordinates>15.5,45.1667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="HU">
+      <name>HUNGARY</name>
+      <description>HUNGARY
+ Population: 9919128
+ Infant Mortality: 5.09</description>
+      <Point>
+        <coordinates>20,47,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="IC">
+      <name>ICELAND</name>
+      <description>ICELAND
+ Population: 317351
+ Infant Mortality: 3.15</description>
+      <Point>
+        <coordinates>-18,65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID">
+      <name>INDONESIA</name>
+      <description>INDONESIA
+ Population: 253609643
+ Infant Mortality: 25.16</description>
+      <Point>
+        <coordinates>120,-5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="IN">
+      <name>INDIA</name>
+      <description>INDIA
+ Population: 1236344631
+ Infant Mortality: 43.19</description>
+      <Point>
+        <coordinates>77,20,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="IR">
+      <name>IRAN</name>
+      <description>IRAN
+ Population: 80840713
+ Infant Mortality: 39.00</description>
+      <Point>
+        <coordinates>53,32,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="IS">
+      <name>ISRAEL</name>
+      <description>ISRAEL
+ Population: 7821850
+ Infant Mortality: 3.98</description>
+      <Point>
+        <coordinates>34.75,31.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="IT">
+      <name>ITALY</name>
+      <description>ITALY
+ Population: 61680122
+ Infant Mortality: 3.31</description>
+      <Point>
+        <coordinates>12.8333,42.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="IV">
+      <name>COTE D'IVOIRE</name>
+      <description>COTE D'IVOIRE
+ Population: 22848945
+ Infant Mortality: 60.16</description>
+      <Point>
+        <coordinates>-5,8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="IZ">
+      <name>IRAQ</name>
+      <description>IRAQ
+ Population: 32585692
+ Infant Mortality: 37.53</description>
+      <Point>
+        <coordinates>44,33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="JA">
+      <name>JAPAN</name>
+      <description>JAPAN
+ Population: 127103388
+ Infant Mortality: 2.13</description>
+      <Point>
+        <coordinates>138,36,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="JM">
+      <name>JAMAICA</name>
+      <description>JAMAICA
+ Population: 2930050
+ Infant Mortality: 13.69</description>
+      <Point>
+        <coordinates>-77.5,18.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="JO">
+      <name>JORDAN</name>
+      <description>JORDAN
+ Population: 7930491
+ Infant Mortality: 15.73</description>
+      <Point>
+        <coordinates>36,31,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="KE">
+      <name>KENYA</name>
+      <description>KENYA
+ Population: 45010056
+ Infant Mortality: 40.71</description>
+      <Point>
+        <coordinates>38,1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="KG">
+      <name>KYRGYZSTAN</name>
+      <description>KYRGYZSTAN
+ Population: 5604212
+ Infant Mortality: 28.71</description>
+      <Point>
+        <coordinates>75,41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="KR">
+      <name>KIRIBATI</name>
+      <description>KIRIBATI
+ Population: 104488
+ Infant Mortality: 35.37</description>
+      <Point>
+        <coordinates>173,1.4167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="KU">
+      <name>KUWAIT</name>
+      <description>KUWAIT
+ Population: 2742711
+ Infant Mortality: 7.51</description>
+      <Point>
+        <coordinates>47.6581,29.3375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="KZ">
+      <name>KAZAKHSTAN</name>
+      <description>KAZAKHSTAN
+ Population: 17948816
+ Infant Mortality: 21.61</description>
+      <Point>
+        <coordinates>68,48,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LA">
+      <name>LAOS</name>
+      <description>LAOS
+ Population: 6803699
+ Infant Mortality: 54.53</description>
+      <Point>
+        <coordinates>105,18,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LE">
+      <name>LEBANON</name>
+      <description>LEBANON
+ Population: 5882562
+ Infant Mortality: 7.98</description>
+      <Point>
+        <coordinates>35.8333,33.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LG">
+      <name>LATVIA</name>
+      <description>LATVIA
+ Population: 2165165
+ Infant Mortality: 7.91</description>
+      <Point>
+        <coordinates>25,57,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LH">
+      <name>LITHUANIA</name>
+      <description>LITHUANIA
+ Population: 3505738
+ Infant Mortality: 6.00</description>
+      <Point>
+        <coordinates>24,56,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LI">
+      <name>LIBERIA</name>
+      <description>LIBERIA
+ Population: 4092310
+ Infant Mortality: 69.19</description>
+      <Point>
+        <coordinates>-9.5,6.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LO">
+      <name>SLOVAKIA</name>
+      <description>SLOVAKIA
+ Population: 5443583
+ Infant Mortality: 5.35</description>
+      <Point>
+        <coordinates>19.5,48.6667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LS">
+      <name>LIECHTENSTEIN</name>
+      <description>LIECHTENSTEIN
+ Population: 37313
+ Infant Mortality: 4.33</description>
+      <Point>
+        <coordinates>9.5333,47.1667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LT">
+      <name>LESOTHO</name>
+      <description>LESOTHO
+ Population: 1942008
+ Infant Mortality: 50.48</description>
+      <Point>
+        <coordinates>28.5,-29.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LU">
+      <name>LUXEMBOURG</name>
+      <description>LUXEMBOURG
+ Population: 520672
+ Infant Mortality: 4.28</description>
+      <Point>
+        <coordinates>6.1667,49.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="LY">
+      <name>LIBYA</name>
+      <description>LIBYA
+ Population: 6244174
+ Infant Mortality: 11.87</description>
+      <Point>
+        <coordinates>17,25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MA">
+      <name>MADAGASCAR</name>
+      <description>MADAGASCAR
+ Population: 23201926
+ Infant Mortality: 44.88</description>
+      <Point>
+        <coordinates>47,-20,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MD">
+      <name>MOLDOVA</name>
+      <description>MOLDOVA
+ Population: 3583288
+ Infant Mortality: 12.93</description>
+      <Point>
+        <coordinates>29,47,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MG">
+      <name>MONGOLIA</name>
+      <description>MONGOLIA
+ Population: 2953190
+ Infant Mortality: 23.15</description>
+      <Point>
+        <coordinates>105,46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MH">
+      <name>MONTSERRAT</name>
+      <description>MONTSERRAT
+ Population: 5215
+ Infant Mortality: 13.66</description>
+      <Point>
+        <coordinates>-62.2,16.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MI">
+      <name>MALAWI</name>
+      <description>MALAWI
+ Population: 17377468
+ Infant Mortality: 48.01</description>
+      <Point>
+        <coordinates>34,-13.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MK">
+      <name>MACEDONIA</name>
+      <description>MACEDONIA
+ Population: 2091719
+ Infant Mortality: 7.90</description>
+      <Point>
+        <coordinates>22,41.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ML">
+      <name>MALI</name>
+      <description>MALI
+ Population: 16455903
+ Infant Mortality: 104.34</description>
+      <Point>
+        <coordinates>-4,17,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MN">
+      <name>MONACO</name>
+      <description>MONACO
+ Population: 30508
+ Infant Mortality: 1.81</description>
+      <Point>
+        <coordinates>7.4,43.7333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MO">
+      <name>MOROCCO</name>
+      <description>MOROCCO
+ Population: 32987206
+ Infant Mortality: 24.52</description>
+      <Point>
+        <coordinates>-5,32,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MP">
+      <name>MAURITIUS</name>
+      <description>MAURITIUS
+ Population: 1331155
+ Infant Mortality: 10.59</description>
+      <Point>
+        <coordinates>57.55,-20.2833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MR">
+      <name>MAURITANIA</name>
+      <description>MAURITANIA
+ Population: 3516806
+ Infant Mortality: 56.06</description>
+      <Point>
+        <coordinates>-12,20,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MT">
+      <name>MALTA</name>
+      <description>MALTA
+ Population: 412655
+ Infant Mortality: 3.59</description>
+      <Point>
+        <coordinates>14.5833,35.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MU">
+      <name>OMAN</name>
+      <description>OMAN
+ Population: 3219775
+ Infant Mortality: 14.00</description>
+      <Point>
+        <coordinates>57,21,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MV">
+      <name>MALDIVES</name>
+      <description>MALDIVES
+ Population: 393595
+ Infant Mortality: 24.59</description>
+      <Point>
+        <coordinates>73,3.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MX">
+      <name>MEXICO</name>
+      <description>MEXICO
+ Population: 120286655
+ Infant Mortality: 12.58</description>
+      <Point>
+        <coordinates>-102,23,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MY">
+      <name>MALAYSIA</name>
+      <description>MALAYSIA
+ Population: 30073353
+ Infant Mortality: 13.69</description>
+      <Point>
+        <coordinates>112.5,2.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="MZ">
+      <name>MOZAMBIQUE</name>
+      <description>MOZAMBIQUE
+ Population: 24692144
+ Infant Mortality: 72.42</description>
+      <Point>
+        <coordinates>35,-18.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NC">
+      <name>NEW CALEDONIA</name>
+      <description>NEW CALEDONIA
+ Population: 267840
+ Infant Mortality: 5.46</description>
+      <Point>
+        <coordinates>165.5,-21.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NG">
+      <name>NIGER</name>
+      <description>NIGER
+ Population: 17466172
+ Infant Mortality: 86.27</description>
+      <Point>
+        <coordinates>8,16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NH">
+      <name>VANUATU</name>
+      <description>VANUATU
+ Population: 266937
+ Infant Mortality: 16.41</description>
+      <Point>
+        <coordinates>167,-16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NI">
+      <name>NIGERIA</name>
+      <description>NIGERIA
+ Population: 177155754
+ Infant Mortality: 74.09</description>
+      <Point>
+        <coordinates>8,10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NL">
+      <name>NETHERLANDS</name>
+      <description>NETHERLANDS
+ Population: 16877351
+ Infant Mortality: 3.66</description>
+      <Point>
+        <coordinates>5.75,52.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NO">
+      <name>NORWAY</name>
+      <description>NORWAY
+ Population: 5147792
+ Infant Mortality: 2.48</description>
+      <Point>
+        <coordinates>10,62,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NP">
+      <name>NEPAL</name>
+      <description>NEPAL
+ Population: 30986975
+ Infant Mortality: 40.43</description>
+      <Point>
+        <coordinates>84,28,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NR">
+      <name>NAURU</name>
+      <description>NAURU
+ Population: 9488
+ Infant Mortality: 8.21</description>
+      <Point>
+        <coordinates>166.9167,-0.5333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NS">
+      <name>SURINAME</name>
+      <description>SURINAME
+ Population: 573311
+ Infant Mortality: 27.07</description>
+      <Point>
+        <coordinates>-56,4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NU">
+      <name>NICARAGUA</name>
+      <description>NICARAGUA
+ Population: 5848641
+ Infant Mortality: 20.36</description>
+      <Point>
+        <coordinates>-85,13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="NZ">
+      <name>NEW ZEALAND</name>
+      <description>NEW ZEALAND
+ Population: 4401916
+ Infant Mortality: 4.59</description>
+      <Point>
+        <coordinates>174,-41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PA">
+      <name>PARAGUAY</name>
+      <description>PARAGUAY
+ Population: 6703860
+ Infant Mortality: 20.75</description>
+      <Point>
+        <coordinates>-58,-23,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PE">
+      <name>PERU</name>
+      <description>PERU
+ Population: 30147935
+ Infant Mortality: 20.21</description>
+      <Point>
+        <coordinates>-76,-10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PK">
+      <name>PAKISTAN</name>
+      <description>PAKISTAN
+ Population: 196174380
+ Infant Mortality: 57.48</description>
+      <Point>
+        <coordinates>70,30,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PL">
+      <name>POLAND</name>
+      <description>POLAND
+ Population: 38346279
+ Infant Mortality: 6.19</description>
+      <Point>
+        <coordinates>20,52,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PM">
+      <name>PANAMA</name>
+      <description>PANAMA
+ Population: 3608431
+ Infant Mortality: 10.70</description>
+      <Point>
+        <coordinates>-80,9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PO">
+      <name>PORTUGAL</name>
+      <description>PORTUGAL
+ Population: 10813834
+ Infant Mortality: 4.48</description>
+      <Point>
+        <coordinates>-8,39.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PP">
+      <name>PAPUA NEW GUINEA</name>
+      <description>PAPUA NEW GUINEA
+ Population: 6552730
+ Infant Mortality: 39.67</description>
+      <Point>
+        <coordinates>147,-6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PS">
+      <name>PALAU</name>
+      <description>PALAU
+ Population: 21186
+ Infant Mortality: 11.46</description>
+      <Point>
+        <coordinates>134.5,7.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PU">
+      <name>GUINEA-BISSAU</name>
+      <description>GUINEA-BISSAU
+ Population: 1693398
+ Infant Mortality: 90.92</description>
+      <Point>
+        <coordinates>-15,12,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="QA">
+      <name>QATAR</name>
+      <description>QATAR
+ Population: 2123160
+ Infant Mortality: 6.42</description>
+      <Point>
+        <coordinates>51.25,25.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="RI">
+      <name>SERBIA</name>
+      <description>SERBIA
+ Population: 7209764
+ Infant Mortality: 6.16</description>
+      <Point>
+        <coordinates>21,44,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="RM">
+      <name>MARSHALL ISLANDS</name>
+      <description>MARSHALL ISLANDS
+ Population: 70983
+ Infant Mortality: 21.39</description>
+      <Point>
+        <coordinates>168,9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="RO">
+      <name>ROMANIA</name>
+      <description>ROMANIA
+ Population: 21729871
+ Infant Mortality: 10.16</description>
+      <Point>
+        <coordinates>25,46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="RP">
+      <name>PHILIPPINES</name>
+      <description>PHILIPPINES
+ Population: 107668231
+ Infant Mortality: 17.64</description>
+      <Point>
+        <coordinates>122,13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="RQ">
+      <name>PUERTO RICO</name>
+      <description>PUERTO RICO
+ Population: 3620897
+ Infant Mortality: 7.73</description>
+      <Point>
+        <coordinates>-66.5,18.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="RS">
+      <name>RUSSIA</name>
+      <description>RUSSIA
+ Population: 142470272
+ Infant Mortality: 7.08</description>
+      <Point>
+        <coordinates>100,60,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="RW">
+      <name>RWANDA</name>
+      <description>RWANDA
+ Population: 12337138
+ Infant Mortality: 59.59</description>
+      <Point>
+        <coordinates>30,-2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SA">
+      <name>SAUDI ARABIA</name>
+      <description>SAUDI ARABIA
+ Population: 27345986
+ Infant Mortality: 14.58</description>
+      <Point>
+        <coordinates>45,25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SB">
+      <name>SAINT PIERRE AND MIQUELON</name>
+      <description>SAINT PIERRE AND MIQUELON
+ Population: 5716
+ Infant Mortality: 6.95</description>
+      <Point>
+        <coordinates>-56.3333,46.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SC">
+      <name>SAINT KITTS AND NEVIS</name>
+      <description>SAINT KITTS AND NEVIS
+ Population: 51538
+ Infant Mortality: 8.98</description>
+      <Point>
+        <coordinates>-62.75,17.3333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SE">
+      <name>SEYCHELLES</name>
+      <description>SEYCHELLES
+ Population: 91650
+ Infant Mortality: 10.77</description>
+      <Point>
+        <coordinates>55.6667,-4.5833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SF">
+      <name>SOUTH AFRICA</name>
+      <description>SOUTH AFRICA
+ Population: 48375645
+ Infant Mortality: 41.61</description>
+      <Point>
+        <coordinates>24,-29,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SG">
+      <name>SENEGAL</name>
+      <description>SENEGAL
+ Population: 13635927
+ Infant Mortality: 52.72</description>
+      <Point>
+        <coordinates>-14,14,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SI">
+      <name>SLOVENIA</name>
+      <description>SLOVENIA
+ Population: 1988292
+ Infant Mortality: 4.04</description>
+      <Point>
+        <coordinates>15,46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SL">
+      <name>SIERRA LEONE</name>
+      <description>SIERRA LEONE
+ Population: 5743725
+ Infant Mortality: 73.29</description>
+      <Point>
+        <coordinates>-11.5,8.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SM">
+      <name>SAN MARINO</name>
+      <description>SAN MARINO
+ Population: 32742
+ Infant Mortality: 4.52</description>
+      <Point>
+        <coordinates>12.4167,43.7667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SN">
+      <name>SINGAPORE</name>
+      <description>SINGAPORE
+ Population: 5567301
+ Infant Mortality: 2.53</description>
+      <Point>
+        <coordinates>103.8,1.3667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SO">
+      <name>SOMALIA</name>
+      <description>SOMALIA
+ Population: 10428043
+ Infant Mortality: 100.14</description>
+      <Point>
+        <coordinates>49,10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SP">
+      <name>SPAIN</name>
+      <description>SPAIN
+ Population: 47737941
+ Infant Mortality: 3.33</description>
+      <Point>
+        <coordinates>-4,40,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ST">
+      <name>SAINT LUCIA</name>
+      <description>SAINT LUCIA
+ Population: 163362
+ Infant Mortality: 11.75</description>
+      <Point>
+        <coordinates>-61.1333,13.8833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SU">
+      <name>SUDAN</name>
+      <description>SUDAN
+ Population: 35482233
+ Infant Mortality: 52.86</description>
+      <Point>
+        <coordinates>30,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SW">
+      <name>SWEDEN</name>
+      <description>SWEDEN
+ Population: 9723809
+ Infant Mortality: 2.60</description>
+      <Point>
+        <coordinates>15,62,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SY">
+      <name>SYRIA</name>
+      <description>SYRIA
+ Population: 17951639
+ Infant Mortality: 15.79</description>
+      <Point>
+        <coordinates>38,35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="SZ">
+      <name>SWITZERLAND</name>
+      <description>SWITZERLAND
+ Population: 8061516
+ Infant Mortality: 3.73</description>
+      <Point>
+        <coordinates>8,47,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TD">
+      <name>TRINIDAD AND TOBAGO</name>
+      <description>TRINIDAD AND TOBAGO
+ Population: 1223916
+ Infant Mortality: 24.82</description>
+      <Point>
+        <coordinates>-61,11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TH">
+      <name>THAILAND</name>
+      <description>THAILAND
+ Population: 67741401
+ Infant Mortality: 9.86</description>
+      <Point>
+        <coordinates>100,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TI">
+      <name>TAJIKISTAN</name>
+      <description>TAJIKISTAN
+ Population: 8051512
+ Infant Mortality: 35.03</description>
+      <Point>
+        <coordinates>71,39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TK">
+      <name>TURKS AND CAICOS ISLANDS</name>
+      <description>TURKS AND CAICOS ISLANDS
+ Population: 49070
+ Infant Mortality: 10.97</description>
+      <Point>
+        <coordinates>-71.5833,21.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TN">
+      <name>TONGA</name>
+      <description>TONGA
+ Population: 106440
+ Infant Mortality: 12.36</description>
+      <Point>
+        <coordinates>-175,-20,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TO">
+      <name>TOGO</name>
+      <description>TOGO
+ Population: 7351374
+ Infant Mortality: 46.73</description>
+      <Point>
+        <coordinates>1.1667,8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TP">
+      <name>SAO TOME AND PRINCIPE</name>
+      <description>SAO TOME AND PRINCIPE
+ Population: 190428
+ Infant Mortality: 49.16</description>
+      <Point>
+        <coordinates>7,1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TS">
+      <name>TUNISIA</name>
+      <description>TUNISIA
+ Population: 10937521
+ Infant Mortality: 23.19</description>
+      <Point>
+        <coordinates>9,34,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TU">
+      <name>TURKEY</name>
+      <description>TURKEY
+ Population: 81619392
+ Infant Mortality: 21.43</description>
+      <Point>
+        <coordinates>35,39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TV">
+      <name>TUVALU</name>
+      <description>TUVALU
+ Population: 10782
+ Infant Mortality: 31.69</description>
+      <Point>
+        <coordinates>178,-8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TX">
+      <name>TURKMENISTAN</name>
+      <description>TURKMENISTAN
+ Population: 5171943
+ Infant Mortality: 38.13</description>
+      <Point>
+        <coordinates>60,40,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="TZ">
+      <name>TANZANIA</name>
+      <description>TANZANIA
+ Population: 49639138
+ Infant Mortality: 43.74</description>
+      <Point>
+        <coordinates>35,-6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="UG">
+      <name>UGANDA</name>
+      <description>UGANDA
+ Population: 35918915
+ Infant Mortality: 60.82</description>
+      <Point>
+        <coordinates>32,1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="UK">
+      <name>UNITED KINGDOM</name>
+      <description>UNITED KINGDOM
+ Population: 63742977
+ Infant Mortality: 4.44</description>
+      <Point>
+        <coordinates>-2,54,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="UP">
+      <name>UKRAINE</name>
+      <description>UKRAINE
+ Population: 44291413
+ Infant Mortality: 8.10</description>
+      <Point>
+        <coordinates>32,49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="US">
+      <name>UNITED STATES</name>
+      <description>UNITED STATES
+ Population: 318892103
+ Infant Mortality: 6.17</description>
+      <Point>
+        <coordinates>-97,38,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="UV">
+      <name>BURKINA FASO</name>
+      <description>BURKINA FASO
+ Population: 18365123
+ Infant Mortality: 76.80</description>
+      <Point>
+        <coordinates>-2,13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="UY">
+      <name>URUGUAY</name>
+      <description>URUGUAY
+ Population: 3332972
+ Infant Mortality: 8.97</description>
+      <Point>
+        <coordinates>-56,-33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="UZ">
+      <name>UZBEKISTAN</name>
+      <description>UZBEKISTAN
+ Population: 28929716
+ Infant Mortality: 19.84</description>
+      <Point>
+        <coordinates>64,41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="VC">
+      <name>SAINT VINCENT AND THE GRENADINES</name>
+      <description>SAINT VINCENT AND THE GRENADINES
+ Population: 102918
+ Infant Mortality: 13.07</description>
+      <Point>
+        <coordinates>-61.2,13.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="VE">
+      <name>VENEZUELA</name>
+      <description>VENEZUELA
+ Population: 28868486
+ Infant Mortality: 19.33</description>
+      <Point>
+        <coordinates>-66,8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="VI">
+      <name>BRITISH VIRGIN ISLANDS</name>
+      <description>BRITISH VIRGIN ISLANDS
+ Population: 32680
+ Infant Mortality: 13.45</description>
+      <Point>
+        <coordinates>-64.5,18.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="VM">
+      <name>VIETNAM</name>
+      <description>VIETNAM
+ Population: 93421835
+ Infant Mortality: 18.99</description>
+      <Point>
+        <coordinates>106,16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="WA">
+      <name>NAMIBIA</name>
+      <description>NAMIBIA
+ Population: 2198406
+ Infant Mortality: 45.64</description>
+      <Point>
+        <coordinates>17,-22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="WF">
+      <name>WALLIS AND FUTUNA</name>
+      <description>WALLIS AND FUTUNA
+ Population: 15561
+ Infant Mortality: 4.49</description>
+      <Point>
+        <coordinates>-176.2,-13.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="WI">
+      <name>WESTERN SAHARA</name>
+      <description>WESTERN SAHARA
+ Population: 554795
+ Infant Mortality: 56.09</description>
+      <Point>
+        <coordinates>-13,24.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="WS">
+      <name>SAMOA</name>
+      <description>SAMOA
+ Population: 196628
+ Infant Mortality: 20.50</description>
+      <Point>
+        <coordinates>-172.3333,-13.5833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="WZ">
+      <name>SWAZILAND</name>
+      <description>SWAZILAND
+ Population: 1419623
+ Infant Mortality: 54.82</description>
+      <Point>
+        <coordinates>31.5,-26.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="YM">
+      <name>YEMEN</name>
+      <description>YEMEN
+ Population: 26052966
+ Infant Mortality: 50.41</description>
+      <Point>
+        <coordinates>48,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ZA">
+      <name>ZAMBIA</name>
+      <description>ZAMBIA
+ Population: 14638505
+ Infant Mortality: 66.62</description>
+      <Point>
+        <coordinates>30,-15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ZI">
+      <name>ZIMBABWE</name>
+      <description>ZIMBABWE
+ Population: 13771721
+ Infant Mortality: 26.55</description>
+      <Point>
+        <coordinates>30,-20,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
