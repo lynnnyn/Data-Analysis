@@ -29,7 +29,7 @@ Pop = data.frame(population,country)
 
 
 ### (f) Merge the two data frames to create a data frame called IMPop with 3 columns:
-### IM, Pop, and CIA.Codes
+### IM, Pop, and CIA.
 IMPop = merge(IM,Pop, all = FALSE)
 ### (g)Merge IMPop with LatLon (from newLatLon.rda) to create a data frame called AllData that has 6 columns
 ### for Latitude, Longitude, CIA.Codes, Country Name, Population, and Infant Mortality

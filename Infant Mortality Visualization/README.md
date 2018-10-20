@@ -1,32 +1,22 @@
-## My Analysis for Condition monitoring of hydraulic systems Data Set 
+## My Analysis for Infant Mortality Visualization
 
 ### DataSet 
-<http://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems#>
+<http://jmatchparser.sourceforge.net/factbook/>
 
-### Data Explore
-Check  dataclean.ipynb
+### Tools
+*   R
+*   XML
+*   Google Earth
 
-### Algorithm
-* KNN
-* Random Forest
-* Logistic Regression
-* SVM
-
-### Data Analysis Report
-Check 50Hz-report.ipynb
-
-#### KNN
-HeatMap for Accuracy
-![alt text](https://github.com/lynnnyn/Data-Analysis/blob/master/Condition%20monitoring%20of%20hydraulic%20systems/knn_heatmap.png)
-
-#### Random Forest
-HeatMap for Accuracy
-![alt text](https://github.com/lynnnyn/Data-Analysis/blob/master/Condition%20monitoring%20of%20hydraulic%20systems/rf_heatmap.png)
-
-#### Logistic Regression
-HeatMap for Accuracy
-![alt text](https://github.com/lynnnyn/Data-Analysis/blob/master/Condition%20monitoring%20of%20hydraulic%20systems/Logistic%20Regression_hm.png)
-
-#### SVM
-HeatMap for Accuracy
-![alt text](https://github.com/lynnnyn/Data-Analysis/blob/master/Condition%20monitoring%20of%20hydraulic%20systems/svm_hm.png)
+### Steps
+1. Create the data frame from XML file
+    1. Use XPath to extract the infant mortality and the CIA country codes from the XML tree
+    2. Create a data frame called IM using this XML file.
+    3. Merge the two data frames to create a data frame called IMPop with 3 columns: IM, Pop, and CIA.
+    4. Merge IMPop with LatLon (from newLatLon.rda) to create a data frame called AllData that has 6 columns for Latitude, Longitude, CIA.Codes, Country Name, Population, and Infant Mortality
+2. Create a KML document for google earth visualization.
+3. Add Style to KML
+    1. create cut points for different categories of infant mortality and population size.
+    2. Save it as Part3.kml and open it in Google Earth
+    
+### Visualization
