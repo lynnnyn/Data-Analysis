@@ -20,3 +20,4 @@
     2. Save it as Part3.kml and open it in Google Earth
     
 ### Visualization
+![alt text](https://github.com/lynnnyn/Data-Analysis/blob/master/Infant%20Mortality%20Visualization/infant.png)

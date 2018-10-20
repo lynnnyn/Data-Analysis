@@ -6,6 +6,10 @@
 ### Data Explore
 Check  dataclean.ipynb
 
+### Tools
+* Jupyter
+* Scikit-learn
+
 ### Algorithm
 * KNN
 * Random Forest
